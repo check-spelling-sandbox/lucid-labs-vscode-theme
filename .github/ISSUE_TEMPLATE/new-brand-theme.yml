@@ -44,7 +44,7 @@ body:
     attributes:
       label: Known Brand Colours (optional)
       description: |
-        If you know the brand's official colours, list them here. Otherwise the agent will extract them from the website and logo.
+        If you know the brand's official colours, list them here. Otherwise, the agent will extract them from the website and logo.
       placeholder: |
         Primary: #1A2B3C
         Secondary: #4D5E6F
